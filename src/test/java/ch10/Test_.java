@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Test__ {
+public class Test_ {
 
     @Test
     void check() {
