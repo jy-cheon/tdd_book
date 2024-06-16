@@ -1,4 +1,4 @@
-package chap03.third;
+package third;
 
 import java.time.LocalDate;
 import java.time.YearMonth;

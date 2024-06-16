@@ -1,4 +1,4 @@
-package chap03.first;
+package ch01;
 
 import org.junit.jupiter.api.Test;
 import java.time.LocalDate;
